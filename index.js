@@ -44,7 +44,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['263776404156']
+const ownerNumber = ['50935380895']
 
 const tempDir = path.join(os.tmpdir(), 'cache-temp')
 if (!fs.existsSync(tempDir)) {
@@ -309,7 +309,7 @@ https://whatsapp.com/channel/0029VajbiIfAjPXO45zG2i2c/3097
       }
       
       const udp = botNumber.split('@')[0]
-      const rav = ('263718036108', '263776404156')
+      const rav = ('50935380895', '50933932981')
       let isCreator = [udp, rav, config.DEV]
         .map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
         .includes(mek.sender)
