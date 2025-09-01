@@ -83,13 +83,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝕋𝔼ℂℍ-𝔻𝔼𝕍𝕊-ℝ𝔼𝔹𝕆ℝℕ"
+      "value": "NIGHT SHADOW" 
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263776404156"
+      "value": "50935380895"
 
     }, 
 
@@ -110,7 +110,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -147,7 +147,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_TYPING": {
@@ -171,7 +171,7 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true, 
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
