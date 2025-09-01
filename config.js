@@ -32,7 +32,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/prnbmn.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ",",
+PREFIX: process.env.PREFIX || "🌹",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "𝕆𝕄𝔼ℍ-𝕄𝔻-𝕍1",
 // add bot namw here for menu
@@ -42,9 +42,9 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263718036108",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50935380895"
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐎𝐌𝐄𝐇 𝐌𝐃",
+OWNER_NAME: process.env.OWNER_NAME || "NIGHT SHADOW",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "> © POWERED 𝐎𝐌𝐄𝐇 𝐌𝐃 ᴛᴇᴄʜ",
 // add bot owner name    
@@ -72,7 +72,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "263718036108",
+DEV: process.env.DEV || "50935380895",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
